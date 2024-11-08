@@ -1,5 +1,5 @@
 spring:
-  aplication:
+  application:
     name: Config-Default
 eureka:
   instance:
